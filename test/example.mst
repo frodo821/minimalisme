@@ -1,0 +1,8 @@
+import test
+import test.env as env
+
+let res = if (cond) {} else if(cond2) {} else do {}
+
+do {}
+
+let x* = () -> {} // comment
